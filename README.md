@@ -4,11 +4,11 @@
 
 HTML Semantico: Ocupar las etqiueta que nos da HTML nativo
 
-- "<header>"
+- `<header>`
   Esta etiqueta semanatica se utiliza para identificar que se encuentra en la cabezera de la pagina web.
-- \*<nav> Esta etiqueta se usa dentro del header, para indicar que es un menu.
-- \*<ul> Etiqueta de ordenado
-- \*<a> Etiqueta ancla para relacionar links o urls.
+- `<nav>` Esta etiqueta se usa dentro del header, para indicar que es un menu.
+- `<ul>` Etiqueta de ordenado
+- `<a>` Etiqueta ancla para relacionar links o urls.
 - Selectores: Conjunto de elementos que agregan estilos a etiquetas de HTML
 
 - pseudoclase CSS: Palabra o propiedad que se le da al selector para establecer su estado "button:hover"
