@@ -1,5 +1,7 @@
 ## Proyecto del curso Practico de HTML y CSS de Platzi, tomando como ejemplo la web inicial de Google.
 
+![VHNGROUP](https://github.com/vhngroup/clon-google/blob/master/images/Resultado.png)
+
 # Apuntes:
 
 HTML Semantico: Ocupar las etqiueta que nos da HTML nativo
