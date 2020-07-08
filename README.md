@@ -18,7 +18,7 @@ HTML Semantico: Ocupar las etqiueta que nos da HTML nativo
 - margin: delimita las margenes y permite ajustar a las por defecto
   padding permite ajustar los espacios de relleno o espacial al rededor de los elementos.
 
-- \*{} resetear todos los estilos del html del navegador
+- **\*{}** resetear todos los estilos del html del navegador
 
 ## GRID o FLEX
 
