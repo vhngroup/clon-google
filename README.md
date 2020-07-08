@@ -2,7 +2,7 @@
 
 ## Proyecto del curso Practico de HTML y CSS de Platzi, tomando como ejemplo la web inicial de Google.
 
-![VHNGROUP](https://github.com/vhngroup/clon-google/blob/master/public/images/Grid_y_flex.png)
+![VHNGROUP](https://github.com/vhngroup/clon-google/blob/master/images/Grid_y_flex.png)
 
 # Apuntes:
 
