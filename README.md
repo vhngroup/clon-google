@@ -1,14 +1,10 @@
-# clon-google
-
 ## Proyecto del curso Practico de HTML y CSS de Platzi, tomando como ejemplo la web inicial de Google.
-
-![VHNGROUP](https://github.com/vhngroup/clon-google/blob/master/images/Grid_y_flex.png)
 
 # Apuntes:
 
 HTML Semantico: Ocupar las etqiueta que nos da HTML nativo
 
-- \*<header>
+- "<header>"
   Esta etiqueta semanatica se utiliza para identificar que se encuentra en la cabezera de la pagina web.
 - \*<nav> Esta etiqueta se usa dentro del header, para indicar que es un menu.
 - \*<ul> Etiqueta de ordenado
@@ -29,6 +25,8 @@ HTML Semantico: Ocupar las etqiueta que nos da HTML nativo
 - El grid lo usuariamos para posisionar etiquetas contenedoras "header, footer, main"
 
 - El flex lo usaria para posicionar el contenido "Parrafo, listas" etc.
+
+![VHNGROUP](https://github.com/vhngroup/clon-google/blob/master/images/Grid_y_flex.png)
 
 ## Datos de Contacto
 
